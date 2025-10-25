@@ -10,7 +10,7 @@ char lettre;
 for (lettre = 'z'; lettre >= 'a'; lettre--)
 {
 putchar (lettre);
-putchar ('\n');
 }
+putchar ('\n');
 return (0);
 }
